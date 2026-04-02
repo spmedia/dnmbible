@@ -5,7 +5,7 @@ The **Darknet Market Bible** is becoming harder and harder to find. This reposit
 ---
 
 ## Details
-- **Clearnet Site**: [darknetbible.org](https://darknetbible.org/) (last updated in 2022; I am NOT the owner).
+- **Clearnet Site**: Previously available, but the domain was been dropped and redirecting to malicious things now.
 - **Backup Date**: This version was archived on **2023-10-24**.
 - **Onion Site**: Previously available, but it has been consistently down.
 
